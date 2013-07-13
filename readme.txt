@@ -41,9 +41,9 @@ You're done! The Plugin ready to use according to the directions in the descript
 #
 
 == Screenshots ==
-2524743.png
-2524792.png
-2524864.png
+1. Step one
+2. step two
+3. Result
 
 == Changelog ==
 = 1.0 =
