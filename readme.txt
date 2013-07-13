@@ -2,7 +2,7 @@
 Contributors: pankajanupam
 Tags: Buddypress, conditional profile field
 Requires at least: 2.8
-Tested up to: 3.3.1
+Tested up to: 3.5.2
 
 Buddypress conditional profile field
 
@@ -41,8 +41,13 @@ You're done! The Plugin ready to use according to the directions in the descript
 #
 
 == Screenshots ==
-None
+2524743.png
+2524792.png
+2524864.png
 
 == Changelog ==
 = 1.0 =
+Improve code
+
+= 0.5 =
 Beta Release
