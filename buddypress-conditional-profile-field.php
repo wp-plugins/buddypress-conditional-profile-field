@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Buddypress conditional profile field
+Plugin Name: Buddypress Conditional Profile Field
 Plugin URI: http://pankajanupam.com/wordpress-plugins/buddypress-conditional-profile-field
 Description: Buddypress conditional profile field
 Version: 2.0
