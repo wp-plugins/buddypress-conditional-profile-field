@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Buddypress conditional profile field
-Plugin URI: http://pankajanupam.in/wordpress-plugins/buddypress-conditional-profile-field
+Plugin URI: http://pankajanupam.com/wordpress-plugins/buddypress-conditional-profile-field
 Description: Buddypress conditional profile field
-Version: 1.0
-Author: PANKAJ ANUPAM
-Author URI: http://pankajanupam.in
+Version: 2.0
+Author: BigBrother
+Author URI: http://pankajanupam.com
 
 * LICENSE
     Copyright 2011 PANKAJ ANUPAM  (email : mymail.anupam@gmail.com)

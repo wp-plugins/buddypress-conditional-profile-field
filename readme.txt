@@ -2,7 +2,7 @@
 Contributors: pankajanupam
 Tags: Buddypress, conditional profile field
 Requires at least: 2.8
-Tested up to: 3.5.2
+Tested up to: 4.1
 
 Buddypress conditional profile field
 
